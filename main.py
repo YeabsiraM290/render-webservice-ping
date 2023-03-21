@@ -1,7 +1,7 @@
 import sched, time
 import requests
 
-url = "http://getzcarsell.com"
+url = ""
 s = sched.scheduler(time.time, time.sleep)
 
 def ping(sc): 
